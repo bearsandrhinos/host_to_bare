@@ -1,5 +1,7 @@
 connection: "thelook"
 
+#This is the hosted right now
+
 # include all the views
 include: "*.view"
 
